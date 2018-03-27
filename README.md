@@ -1,6 +1,6 @@
+## game-of-life
 ## FreeCodeCamp - Data Visualization
 ## React Projects: [Build the Game of Life](https://www.freecodecamp.org/challenges/build-the-game-of-life)
-## game-of-life
 
 ### Getting started
 
